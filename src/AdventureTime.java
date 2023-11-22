@@ -10,10 +10,6 @@ public class AdventureTime {
      */
     public static void main(String[] args) throws IOException {
         writeFileAllAnswers("answers", challengeOne("InputOneTwo.txt"), challengeTwo("InputOneTwo.txt"),challengeThree("InputThreeFour.txt"),challengeFour("InputThreeFour.txt"));
-        System.out.println(challengeOne("inputOneTwo.txt"));
-        System.out.println(challengeTwo("inputOneTwo.txt"));
-        System.out.println(challengeThree("inputThreeFour.txt"));
-        System.out.println(challengeFour("inputThreeFour.txt"));
     }
 
     /** TODO 1
